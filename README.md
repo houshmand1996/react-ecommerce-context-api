@@ -1,4 +1,4 @@
-#this is just a profilio project 
+ > # This is just a profilio project
 # react-context-complete
 A complete version of ecommerce  application (houshmand1996/react-ecommerce) converting everything redux over to using the contextAPI
 
